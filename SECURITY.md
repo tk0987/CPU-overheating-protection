@@ -1,0 +1,8 @@
+# Security Policy
+
+## THERE IS NO WARRANTY
+#
+#
+## !!!YOU USE THIS CODE FOR YOUR OWN RESPONSIBILITY!!!
+
+
