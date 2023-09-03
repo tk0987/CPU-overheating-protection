@@ -8,6 +8,7 @@ Code requires Open hardware monitor running in the background. Otherwise it won'
 
 Also, advertisment from source file:
 #
+#
 Worry about overheating your hardware?
  
 Forget about it! Now your hardware will know, when to shutdown! 
