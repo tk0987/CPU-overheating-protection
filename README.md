@@ -7,7 +7,7 @@ It's Python code. If You want to run this program in VSCode - simply press F5 or
 Code requires Open hardware monitor running in the background. Otherwise it won't work.
 
 Also, advertisment from source file:
-
+#
 Worry about overheating your hardware?
  
 Forget about it! Now your hardware will know, when to shutdown! 
