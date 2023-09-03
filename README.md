@@ -8,14 +8,14 @@ Code requires Open hardware monitor running in the background. Otherwise it won'
 
 Also, advertisment from source file:
 
-# Worry about overheating your hardware?
-# 
-# Forget about it! Now your hardware will know, when to shutdown! 
-# Especially useful with broken cooler or something like that...
-# 
-# 
-# Do not forget to run Open Hardware Monitor, otherwise code below won't work.
-# just make exe, then task scheduler... 
-# 
-# 
-# I have X570 chipset, so other ways (like pyspectator) did not work for me. And psutil is for Linux...
+Worry about overheating your hardware?
+ 
+Forget about it! Now your hardware will know, when to shutdown! 
+Especially useful with broken cooler or something like that...
+
+
+Do not forget to run Open Hardware Monitor, otherwise code below won't work.
+just make exe, then task scheduler... 
+
+
+I have X570 chipset, so other ways (like pyspectator) did not work for me. And psutil is for Linux...
